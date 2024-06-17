@@ -1,0 +1,7 @@
+source "C:/Users/Leticia/esp/v4.4.2/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/Leticia/esp/v4.4.2/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Leticia/esp/v4.4.2/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/Leticia/esp/v4.4.2/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Leticia/esp/v4.4.2/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/Leticia/Documents/Projetos_ESP_IDF/simple_https_server/main/Kconfig.projbuild"
+source "C:/Users/Leticia/esp/v4.4.2/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
