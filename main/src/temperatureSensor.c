@@ -47,7 +47,7 @@ float getTemp()
     static float temp = 0;
     ds18b20_requestTemperatures();
     temp = ds18b20_getTempC((DeviceAddress *)tempSensors[0]);
-    ESP_LOGW(TAG, "Temperature: %.2f",temp);
+    ESP_LOGD(TAG, "Temperature: %.2f",temp);
     return temp;
 }
 
